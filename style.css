@@ -1,0 +1,55 @@
+body {
+    border: 1.3px groove limegreen;
+    background-image: linear-gradient( 
+    80deg, black, transparent);
+    padding: 3px;
+    padding-bottom: 49px;
+    padding-right: 13px;
+}
+header {
+    background-color: darkgray;
+    height: 100%;
+    width: 411px;
+}
+h4 {
+    text-transform: capitalize;
+    text-shadow: 0.25px 1.5px lightseagreen;
+    padding-top: 15px;
+    background-color: darkgoldenrod;
+    padding-left: 3px;
+    text-align-last: center;
+    padding-bottom: 2px;
+    width: 158px;
+    border-top-width: 1px;
+    padding-top: 3px;
+    padding-right: 1px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#one-section {
+    height: 950px;
+}
+.container {
+    height: 930px;
+    width: 95%;
+    display: inline-flex;
+    justify-content: space-around;
+    padding-top: 3px;
+}
+.half-video {
+    padding: 47px;
+    background: initial;
+    height: 53%;
+    width: 37%;
+}
+div#left-half-video{
+    
+    width: 412.438;
+    width: 412.438;
+    height: 326.500;
+    height: 327.500;
+}
+body::-webkit-scrollbar {
+        width: .5em;
+}
+       
